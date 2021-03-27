@@ -17,6 +17,13 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+References
+========================
+- WebSocket MDN: https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_client_applications
+- CMPUT404 WebSocket Examples: https://github.com/abramhindle/WebSocketsExamples
+- My CMPUT 404 Assignment 4 Ajax: https://github.com/jha8/CMPUT404-assignment-ajax
+
+
 Contributors / Licensing
 ========================
 
@@ -26,6 +33,7 @@ freetests.py is LICENSE'D under a BSD-like license:
 
 From ws4py
 
+Copyright (c) 2021, Joe Ha [Submitting Student]
 Copyright (c) 2011-2014, Sylvain Hellegouarch, Abram Hindle
 All rights reserved.
 
